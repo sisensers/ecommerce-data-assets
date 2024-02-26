@@ -1,0 +1,82 @@
+# Commerce Data Generator
+
+## Overview
+
+The Commerce Data Generator is a Python script designed to create synthetic transaction data for a commerce dataset. It leverages the Faker library to generate realistic customer names and dates, producing a CSV file containing transaction information. This README provides an overview of the script's functionality and guidance on how to customize the generated data.
+
+## Usage
+
+### Prerequisites
+
+Ensure you have Python installed on your system.
+
+Install the required libraries using the following command:
+
+```bash
+pip install faker pandas
+```
+
+### Running the Script
+
+To run the script and generate synthetic transaction data:
+
+1. Open a terminal or command prompt.
+
+2. Navigate to the directory containing the script.
+
+3. Run the script:
+
+   ```bash
+   python commerce_data_generator.py
+   ```
+
+4. The script will generate a CSV file named "CommerceTable.csv" containing the synthetic transaction data.
+
+## Customization Options
+
+The script offers several variables that can be adjusted to customize the generated data:
+
+### 1. Number of Rows (`num_rows`)
+
+The `num_rows` variable controls the total number of rows or transactions to be generated. Update this variable to specify the desired size of your dataset.
+
+### 2. Number of Transactions per Customer (`min_transactions` and `max_transactions`)
+
+Adjust the `min_transactions` and `max_transactions` variables to define the range for the number of transactions per customer. This introduces variability in the number of transactions each customer can have.
+
+### 3. Gender Distribution (`female_weight`)
+
+The `female_weight` variable determines the percentage of female customers in the generated dataset. By default, it is set to 62%. Modify this value to achieve the desired gender distribution.
+
+### 4. Countries (`country`)
+
+Currently, the script is configured to generate transactions for the "United States." If you want transactions in different countries, you can modify the `country` variable within the script.
+
+### 5. Additional Fields
+
+The script includes various other fields such as `Product_ID`, `Category_ID`, `Brand_ID`, etc. You can explore the script and update these fields based on your specific requirements.
+
+Feel free to experiment with these variables to generate datasets tailored to your specific needs.
+
+## Example:
+
+```python
+# Update the number of rows to generate 5000 transactions
+num_rows = 5000
+
+# Update the range for the number of transactions per customer
+min_transactions = 1
+max_transactions = 5
+
+# Adjust the female weight to 50%
+female_weight = 0.5
+
+# Change the target country to "Canada"
+country = "Canada"
+```
+
+By customizing these variables, you can generate diverse datasets suitable for testing, analysis, or any other purposes.
+
+---
+
+This README provides a more detailed explanation of the customization options available in the script, guiding users on how to modify variables for different data characteristics such as row count, gender distribution, countries, and more.
