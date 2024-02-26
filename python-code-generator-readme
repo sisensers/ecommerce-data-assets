@@ -1,6 +1,6 @@
 # Commerce Data Generator
 
-## Overview
+##Overview
 
 The Commerce Data Generator is a Python script designed to create synthetic transaction data for a commerce dataset. It leverages the Faker library to generate realistic customer names and dates, producing a CSV file containing transaction information. This README provides an overview of the script's functionality and guidance on how to customize the generated data.
 
