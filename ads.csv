@@ -1,0 +1,245 @@
+Ad_set_name,Ad_name,Age,Gender,Objective,Day,Ad_Set_ID,Ad_ID,Reach,Impressions,Frequency,Results,Amountspent(USD),Costperresult,Starts,Ends,Purchases,Costperpurchase,Uniquepurchases,Network
+Summer_Savings_US,SunnyStyles_Sale_AD_1,25-29,Male,Product Awareness,27,1001,100100,25000,100000,2.7,110,325,2.954545455,05/01/2022,05/28/2022,11,3.723076923,11,FB
+Summer_Savings_US,BeachVibes_Bargains_AD_2,36-40,Female,Engagement,29,1001,100101,30000,120000,3.2,80,450,5.625,06/01/2022,06/30/2022,8,1.422222222,8,FB
+Summer_Savings_US,SummerChic_Savings_AD_3,41-50,Unspecified,Sales Conversions,29,1001,100102,20000,80000,1.8,95,180,1.894736842,06/01/2022,06/30/2022,10,5.277777778,10,FB
+BackToSchool_Bargains,SmartStart_Fashion_AD_1,20-24,Female,Product Launch,15,1002,100103,15000,60000,4.1,120,720,6,06/15/2022,06/30/2022,12,2,12,IG
+BackToSchool_Bargains,SchoolStyle_Savings_AD_2,41-50,Male,Sales Conversions,30,1002,100104,18000,72000,2.5,90,250,2.777777778,08/01/2022,08/31/2022,9,3.24,9,FB
+BackToSchool_Bargains,BTS_Boutique_AD_3,25-29,Unspecified,Engagement,31,1002,100105,35000,140000,3.8,105,560,5.333333333,08/01/2022,09/01/2022,11,2.0625,11,IG
+IndependenceDay_FashionFrenzy,IndependenceDay_FashionFrenzy,36-40,Male,Website Traffic,1,1003,100106,28000,112000,4.3,115,890,7.739130435,07/04/2022,07/05/2022,12,1.550561798,12,FB
+IndependenceDay_FashionFrenzy,Patriotic_Parade_Picks_AD_3,30-35,Unspecified,Sales Conversions,10,1003,100107,32000,128000,2.9,100,320,3.2,06/25/2022,07/05/2022,10,3.125,10,FB
+SpringStyles_Spectacular,BloomingFashion_Bonanza_AD_1,20-24,Male,Product Launch,31,1004,100108,27000,108000,3.6,85,680,8,08/01/2022,09/01/2022,9,1.125,9,IG
+SpringStyles_Spectacular,SpringEssentials_Sale_AD_2,30-35,Female,Email Subscriptions,30,1004,100109,23000,92000,4,110,420,3.818181818,09/01/2022,10/01/2022,11,2.880952381,11,FB
+SpringStyles_Spectacular,FreshFloral_Fiesta_AD_3,25-29,Female,Product Launch,30,1004,100110,26000,104000,2.3,75,570,7.6,09/15/2022,10/15/2022,8,1.052631579,8,FB
+MemorialDay_Madness,MemorialStyles_Mania_AD_1,41-50,Unspecified,Website Traffic,19,1005,100111,22000,88000,3.5,98,220,2.244897959,05/01/2022,05/20/2022,10,4.454545455,10,IG
+FallFashion_Fiesta,FallFaves_Fashion_AD_2,25-29,Male,Sales Conversions,31,1006,100112,20000,80000,4.2,112,790,7.053571429,10/01/2022,11/01/2022,12,1.701265823,3,IG
+FallFashion_Fiesta,CozyCrisp_Collection_AD_3,30-35,Female,Product Awareness,30,1006,100113,30000,120000,2,80,350,4.375,11/01/2022,12/01/2022,8,1.828571429,8,IG
+Halloween_Hautecouture,SpookyStyle_Showcase_AD_1,41-50,Unspecified,Engagement,17,1007,100114,25000,100000,3.9,115,480,4.173913043,10/15/2022,11/01/2022,12,2.875,12,IG
+LaborDay_LeisureLooks,LazyDay_Leisure_AD_1,30-35,Male,Sales Conversions,29,1008,100115,18000,72000,2.8,105,150,1.428571429,09/01/2022,09/30/2022,11,7.7,11,IG
+LaborDay_LeisureLooks,LaborDay_Loungewear_AD_2,25-29,Female,Email Subscriptions,29,1008,100116,35000,140000,3.7,92,920,10,09/01/2022,09/30/2022,10,1,10,FB
+LaborDay_LeisureLooks,Relaxation_Retreat_AD_3,36-40,Male,Website Traffic,30,1008,100117,28000,112000,4,118,290,2.457627119,10/01/2022,10/31/2022,12,4.882758621,12,IG
+WinterWardrobe_Wonders,WinterWonders_Wardrobe_AD_1,20-24,Unspecified,Product Launch,30,1009,100118,32000,128000,2.6,88,610,6.931818182,12/01/2022,12/31/2022,9,1.298360656,9,FB
+Thanksgiving_Threads,TurkeyDay_Trends_AD_1,30-35,Female,Product Awareness,30,1010,100119,27000,108000,4.2,115,750,6.52173913,11/1/2022,12/01/2022,12,1.84,4,IG
+Thanksgiving_Threads,Gratitude_Garments_AD_2,25-29,Male,Engagement,16,1010,100120,23000,92000,3.4,104,410,3.942307692,11/15/2022,12/01/2022,11,2.790243902,3,IG
+Thanksgiving_Threads,FeastFashion_Favorites_AD_3,25-29,Unspecified,Sales Conversions,10,1010,100121,26000,104000,1.9,78,540,6.923076923,11/20/2022,11/30/2022,8,1.155555556,6,FB
+CyberMonday_ClothingCraze,DigitalDeals_DressUp_AD_1,25-29,Unspecified,Product Launch,9,1011,100122,22000,88000,4,110,170,1.545454545,12/01/2022,12/10/2022,11,7.117647059,10,IG
+CyberMonday_ClothingCraze,CyberChic_Couture_AD_2,30-35,Female,Product Awareness,6,1011,100123,20000,80000,2.2,85,880,10.35294118,11/25/22,12/01/2022,9,0.8693181818,5,FB
+CyberMonday_ClothingCraze,DigitalDeals_DapperDuds_AD_4,25-29,Unspecified,Website Traffic,11,1011,100124,30000,120000,3.6,108,280,2.592592593,11/20/2022,12/01/2022,11,4.242857143,3,FB
+CyberMonday_ClothingCraze,CyberChic_Closet_Clearance_AD_5,30-35,Male,Sales Conversions,21,1011,100125,25000,100000,3.3,94,510,5.425531915,11/10/2022,12/01/2022,10,1.843137255,1,IG
+CyberMonday_ClothingCraze,TechTrendsetter_CyberFashion_AD_6,25-29,Female,Email Sub,14,1011,100126,18000,72000,2.7,80,690,8.625,12/01/2022,12/15/2022,8,0.9275362319,8,IG
+CyberMonday_ClothingCraze,OnlineOpulence_Sale_AD_3,41-50,Female,Email Sub,31,1011,100127,35000,140000,3.1,107,360,3.364485981,12/01/2022,01/01/2023,11,3.269444444,11,IG
+NewYear_NewStyles,NewYear_News_Nattire_AD_1,30-35,Unspecified,scriptions,6,1012,100128,28000,112000,4,114,800,7.01754386,12/26/2022,01/01/2023,12,1.71,12,FB
+ValentineVibes_ApparelAffair,LoveStruck_Styles_AD_1,36-40,Female,Engagement,45,1013,100129,32000,128000,3.5,85,230,2.705882353,01/01/2023,02/15/2023,9,3.326086957,9,FB
+PresidentDay_Picks,Presidential_Picks_AD_1,25-29,Male,Product Awareness,27,1014,100130,27000,108000,2.9,98,470,4.795918367,02/01/2023,02/28/2023,10,2.085106383,10,IG
+PresidentDay_Picks,CommanderInChic_Collection_AD_2,36-40,Unspecified,Sales Conversions,22,1014,100131,23000,92000,3.7,112,140,1.25,02/01/2023,02/23/2023,12,9.6,12,IG
+StPatricksDay_StyleSearch,LuckOfTheStylish_AD_1,41-50,Female,Website Traffic,31,1015,100132,26000,104000,2.4,86,950,11.04651163,03/01/2023,04/01/2023,9,0.8147368421,9,FB
+Easter_EleganceEdit,EasterElegance_Editorial_AD_1,36-40,Unspecified,Product Launch,18,1016,100133,22000,88000,4,110,310,2.818181818,04/01/2023,04/19/2023,11,3.903225806,11,FB
+Easter_EleganceEdit,BunnyHop_Boutique_AD_2,25-29,Male,Email Subscriptions,30,1016,100134,20000,80000,3.8,95,630,6.631578947,04/01/2023,05/01/2023,10,1.507936508,10,FB
+Easter_EleganceEdit,PastelPerfection_Sale_AD_3,36-40,Unspecified,Engagement,14,1016,100135,30000,120000,2.8,78,860,11.02564103,06/01/2023,06/15/2023,8,0.7255813953,8,IG
+EarthDay_EcoFashionFinds,EcoChic_EarthDay_Finds_AD_1,30-35,Female,Sales Conversions,2,1017,100136,25000,100000,3.5,105,390,3.714285714,05/01/2023,05/03/2023,11,2.961538462,11,IG
+MothersDay_ModernStyles,MomsMarvel_ModernMaven_AD_4,30-35,Unspecified,Product Launch,14,1018,100137,18000,72000,2.2,88,520,5.909090909,05/01/2023,05/15/2023,9,1.523076923,4,FB
+MothersDay_ModernStyles,ChicMoments_MothersDayMood_AD_5,41-50,Male,Website Traffic,31,1018,100138,35000,140000,4,112,190,1.696428571,05/01/2023,06/01/2023,12,7.073684211,3,FB
+MothersDay_ModernStyles,MomMagic_Motherhood_Mania_AD_1,25-29,Unspecified,Email Subscriptions,31,1018,100139,28000,112000,3.3,103,740,7.184466019,05/01/2023,06/01/2023,11,1.531081081,3,FB
+MothersDay_ModernStyles,ChicMom_Collection_AD_2,25-29,Unspecified,Product Awareness,31,1018,100140,32000,128000,2.9,82,270,3.292682927,05/01/2023,06/01/2023,9,2.733333333,3,IG
+MothersDay_ModernStyles,MotherlyElegance_Show_AD_3,30-35,Male,Sales Conversions,31,1018,100141,27000,108000,4.1,115,500,4.347826087,05/01/2023,06/01/2023,12,2.76,2,FB
+FathersDay_FashionFinds,DapperDad_FashionFinds_AD_1,20-24,Unspecified,Engagement,30,1019,100142,23000,92000,2.6,100,670,6.7,06/01/2023,07/01/2023,10,1.492537313,2,FB
+FathersDay_FashionFinds,Fatherhood_Fashion_AD_2,41-50,Unspecified,Product Launch,30,1019,100143,26000,104000,3.7,80,340,4.25,06/01/2023,07/01/2023,8,1.882352941,1,FB
+FathersDay_FashionFinds,DadStyle_Discovery_AD_3,30-35,Male,Website Traffic,14,1019,100144,22000,88000,3.1,113,860,7.610619469,06/01/2023,06/15/2023,12,1.576744186,1,FB
+Graduation_Glam,CapAndGown_Chic_AD_1,36-40,Female,Email Subscriptions,30,1020,100145,20000,80000,4,95,230,2.421052632,06/01/2023,07/01/2023,10,4.130434783,1,IG
+thOfJuly_FabulousFits,July4th_FabFits_AD_2,25-29,Male,Product Awareness,1,1021,100146,30000,120000,2.4,82,470,5.731707317,07/04/2023,07/05/2023,9,1.570212766,1,IG
+thOfJuly_FabulousFits,Patriotic_Parade_Picks_AD_3,30-35,Unspecified,Engagement,10,1022,100147,25000,100000,3.8,108,140,1.296296296,06/25/2023,07/05/2023,11,8.485714286,1,IG
+BeachBash_Bonanza,SplashStyle_Summer_AD_1,30-35,Female,Sales Conversions,31,1023,100148,18000,72000,2,96,950,9.895833333,08/01/2023,09/01/2023,10,1.010526316,1,FB
+BeachBash_Bonanza,TropicalVibes_Trend_AD_2,25-29,Unspecified,Product Launch,30,1023,100149,35000,140000,3.5,80,310,3.875,09/01/2023,10/01/2023,8,2.064516129,8,FB
+BeachBash_Bonanza,PoolsideGlamour_Garments_AD_3,20-24,Unspecified,Email Subscriptions,30,1023,100150,28000,112000,4.2,115,630,5.47826087,09/15/2023,10/15/2023,12,2.19047619,12,FB
+BBQ_Bash_Boutique,GrillAndChill_Clothing_AD_1,36-40,Female,Website Traffic,19,1024,100151,32000,128000,2.7,105,860,8.19047619,05/01/2023,05/20/2023,11,1.343023256,11,FB
+BBQ_Bash_Boutique,BBQ_Boutique_Bonanza_AD_2,25-29,Male,Sales Conversions,31,1024,100152,27000,108000,3.4,92,390,4.239130435,10/01/2023,11/01/2023,10,2.358974359,10,IG
+BBQ_Bash_Boutique,SizzlingStyles_Summer_AD_3,30-35,Female,Product Awareness,30,1024,100153,23000,92000,2.1,118,520,4.406779661,11/01/2023,12/01/2023,12,2.723076923,12,FB
+Camping_Clothing_Craze,OutdoorChic_Camping_AD_1,25-29,Male,Engagement,17,1025,100154,26000,104000,3.6,88,190,2.159090909,10/15/2023,11/01/2023,9,4.168421053,9,FB
+Camping_Clothing_Craze,Wilderness_Wardrobe_Wonders_AD_2,36-40,Unspecified,Email Subscriptions,19,1025,100155,22000,88000,3.9,115,740,6.434782609,05/01/2023,5/20/2023,12,1.864864865,12,IG
+Camping_Clothing_Craze,CampfireCouture_Collection_AD_3,25-29,Male,Product Launch,31,1025,100156,20000,80000,2.5,104,270,2.596153846,10/01/2023,11/1/2023,11,4.237037037,11,FB
+SummerNights_StyleSensation,MoonlightMadness_Fashion_AD_1,20-24,Unspecified,Sales Conversions,30,1026,100157,30000,120000,4,78,500,6.41025641,11/01/2023,12/1/2023,8,1.248,8,FB
+AugustAdventure_ApparelAffair,AdventureAwaits_Fashion_AD_1,30-35,Female,Website Traffic,17,1027,100158,25000,100000,3.2,110,670,6.090909091,10/15/2023,11/01/2023,11,1.805970149,11,FB
+LaborDay_LeisureLooks,RelaxationRendezvous_AD_1,41-50,Unspecified,Product Awareness,29,1028,100159,18000,72000,2.8,85,340,4,09/01/2023,09/30/2023,9,2.25,9,IG
+FallFoliage_FashionFinds,AutumnAdornments_AD_1,36-40,Male,Engagement,30,1029,100160,35000,140000,3.1,108,860,7.962962963,09/01/2023,10/1/2023,11,1.381395349,11,FB
+FallFoliage_FashionFinds,FallingForFashionFinds_AD_2,20-24,Female,Sales Conversions,30,1029,100161,28000,112000,2.3,94,230,2.446808511,10/01/2023,10/31/2023,10,4.086956522,10,IG
+FallFoliage_FashionFinds,CrispCouture_Collection_AD_3,36-40,Unspecified,Email Subscriptions,30,1029,100162,32000,128000,4,80,470,5.875,12/01/2023,12/31/2023,8,1.361702128,8,FB
+Oktoberfest_Outfit_Opulence,BeerGarden_Beauty_AD_1,41-50,Female,Product Launch,30,1030,100163,27000,108000,3.7,107,140,1.308411215,12/01/2023,12/31/2023,11,8.407142857,11,FB
+Oktoberfest_Outfit_Opulence,OpulentOktober_Style_AD_2,30-35,Unspecified,Website Traffic,30,1030,100164,23000,92000,2.6,114,950,8.333333333,11/1/2023,12/1/2023,12,1.44,12,IG
+CozyCabin_Collection,FiresideFashion_Favorites_AD_1,41-50,Female,Product Awareness,16,1031,100165,26000,104000,3.9,85,310,3.647058824,11/15/2023,12/1/2023,9,2.467741935,9,FB
+Thanksgiving_Threads,GratitudeGarb_Collection_AD_2,20-24,Male,Engagement,10,1031,100166,22000,88000,2.4,98,630,6.428571429,11/20/2023,11/30/2023,10,1.555555556,10,IG
+Thanksgiving_Threads,FeastDay_FashionFinds_AD_3,36-40,Female,Sales Conversions,9,1031,100167,20000,80000,3,112,860,7.678571429,12/01/2023,12/10/2023,12,1.562790698,12,FB
+BlackFriday_BingeBuy,MidnightMadness_MustHaves_AD_1,41-50,Male,Email Subscriptions,6,1032,100168,30000,120000,4.1,86,390,4.534883721,11/25/2023,12/01/2023,9,1.984615385,9,IG
+BlackFriday_BingeBuy,BargainBlitz_Boutique_AD_2,20-24,Unspecified,Product Launch,11,1032,100169,25000,100000,2.5,110,520,4.727272727,11/20/2023,12/01/2023,11,2.326923077,11,IG
+BlackFriday_BingeBuy,ShopTillYouDrop_Showcase_AD_3,30-35,Unspecified,Website Traffic,21,1032,100170,18000,72000,3.2,95,190,2,11/10/2023,12/01/2023,10,5,10,IG
+CyberMonday_ClothingCraze,DigitalDeals_DapperDuds_AD_4,30-35,Male,Engagement,14,1033,100171,35000,140000,4,78,740,9.487179487,12/01/2023,12/15/2023,8,0.8432432432,8,FB
+CyberMonday_ClothingCraze,CyberChic_Closet_Clearance_AD_5,25-29,Female,Product Awareness,6,1033,100172,28000,112000,2.9,105,270,2.571428571,11/25/2023,12/01/2023,11,4.277777778,11,IG
+CyberMonday_ClothingCraze,TechTrendsetter_CyberFashion_AD_6,25-29,Female,Sales Conversions,11,1033,100173,32000,128000,3.6,88,500,5.681818182,11/20/2023,12/01/2023,9,1.584,9,FB
+WinterWonder_Wardrobe,Snowflakes_Style_Sale_AD_4,36-40,Unspecified,Product Launch,21,1034,100174,27000,108000,2,112,670,5.982142857,11/10/2023,12/01/2023,12,2.005970149,12,FB
+UglySweater_Showcase,TackyThreads_Trend_AD_1,25-29,Unspecified,Email Subscriptions,14,1035,100175,30000,92000,3.3,103,340,3.300970874,12/01/2023,12/15/2023,11,3.332352941,11,IG
+ChristmasCouture_Collection,FestiveFashions_Finale_AD_7,41-50,Male,Website Traffic,14,1036,100176,25000,104000,4.1,82,860,10.48780488,12/01/2023,12/15/2023,9,0.8581395349,9,FB
+ChristmasCouture_Collection,SantaStyle_Showcase_AD_8,30-35,Female,Product Awareness,14,1036,100177,18000,88000,2.8,115,230,2,12/01/2023,12/15/2023,12,6,12,FB
+ChristmasCouture_Collection,JingleBell_Joy_Collection_AD_9,41-50,Unspecified,Sales Conversions,14,1036,100178,35000,80000,3.5,100,470,4.7,12/01/2023,12/15/2023,10,2.127659574,9,FB
+ChristmasCouture_Collection,MerryAndBright_MustHaves_AD_10,25-29,Unspecified,Engagement,24,1036,100179,28000,120000,4.2,80,140,1.75,12/01/2023,12/25/2023,8,4.571428571,7,FB
+ChristmasCouture_Collection,HollyJolly_HauteCouture_AD_11,20-24,Male,Product Launch,14,1036,100180,32000,100000,2.4,113,950,8.407079646,12/01/2023,12/15/2023,12,1.427368421,,IG
+NewYear_NewStyles,NewYear_News_Nattire_AD_1,30-35,Female,Website Traffic,19,1037,100181,27000,72000,3.7,95,310,3.263157895,12/01/2023,12/20/2023,10,3.064516129,1,FB
+WinterSale_WardrobeWins,SnowySavings_Style_AD_13,30-35,Unspecified,Email Subscriptions,14,1038,100182,23000,140000,2.1,82,630,7.682926829,12/01/2023,12/15/2023,9,1.171428571,9,IG
+WinterSale_WardrobeWins,WinteryWardrobe_Wonders_AD_14,25-29,Male,Sales Conversions,14,1038,100183,26000,112000,3.9,108,860,7.962962963,12/01/2023,12/15/2023,11,1.381395349,1,FB
+WinterSale_WardrobeWins,FrostyFashion_Fiesta_AD_15,30-35,Unspecified,Product Awareness,14,1038,100184,22000,128000,3.4,96,390,4.0625,12/01/2023,12/15/2023,10,2.461538462,,IG
+Resolutions_Revamp,Revolutionize_Your_Style_AD_13,20-24,Female,Product Launch,18,1039,100185,20000,108000,2.7,80,520,6.5,04/01/2024,04/19/2024,8,1.230769231,8,IG
+AprilShowers_StyleSplendor,RainyDay_Runway_AD_16,30-35,Unspecified,Engagement,30,1040,100186,30000,92000,4,115,190,1.652173913,04/01/2024,05/01/2024,12,7.263157895,12,IG
+AprilShowers_StyleSplendor,AprilAesthetics_Style_AD_17,36-40,Female,Website Traffic,14,1040,100187,25000,104000,3.1,105,740,7.047619048,04/01/2024,04/15/2024,11,1.560810811,11,FB
+EarthDay_EcoFashionFinds,EcoElegance_EarthDay_ED_19,30-35,Unspecified,Sales Conversions,2,1041,100188,18000,88000,2.5,92,270,2.934782609,05/01/2024,05/03/2024,10,3.407407407,10,IG
+MayFlowers_FashionFusion,BlossomBeauty_Boutique_AD_22,25-29,Female,Email Subscriptions,14,1042,100189,35000,80000,3.8,118,500,4.237288136,05/01/2024,05/15/2024,12,2.832,12,IG
+MayFlowers_FashionFusion,FloralFusion_Fashion_AD_23,36-40,Unspecified,Product Awareness,31,1042,100190,28000,120000,2.2,88,670,7.613636364,05/01/2024,06/01/2024,9,1.182089552,9,FB
+MothersDay_ModernStyles,**MothersDay_ModernStyles:**,30-35,Male,Product Launch,31,1043,100191,32000,100000,3.6,115,340,2.956521739,05/01/2024,06/01/2024,12,4.058823529,12,FB
+MemorialDay_Madness,MemorialStyles_Mania,20-24,Unspecified,Sales Conversions,19,1044,100192,27000,72000,4,104,860,8.269230769,05/01/2024,05/20/2024,11,1.330232558,11,FB
+MemorialDay_Madness,HonoringHeroes_StyleSpectacle,25-29,Female,Engagement,1,1044,100193,23000,140000,2.9,78,230,2.948717949,07/04/2024,07/05/2024,8,2.713043478,8,FB
+SummerSizzle_Styles,SizzlingStyles_Showcase,41-50,Unspecified,Website Traffic,10,1045,100194,26000,112000,3.3,110,470,4.272727273,06/25/2024,07/05/2024,11,2.574468085,11,IG
+JulyJubilation_Jeans,IndependenceDay_InDenim_AD_1,36-40,Male,Email Subscriptions,31,1046,100195,22000,128000,4.2,85,140,1.647058824,08/01/2024,09/01/2024,9,5.464285714,9,IG
+JulyJubilation_Jeans,JeansJubilee_JulyStyle_AD_2,20-24,Female,Product Awareness,30,1046,100196,20000,108000,2.6,108,950,8.796296296,09/01/2024,10/01/2024,11,1.250526316,11,FB
+JulyJubilation_Jeans,RedWhiteBlue_JeanRevival_AD_3,41-50,Male,Product Launch,30,1046,100197,30000,92000,3.7,94,310,3.29787234,09/15/2024,10/15/2024,10,3.032258065,10,FB
+BackToSchool_Bargains,SmartStart_Style_AD_1,30-35,Female,Sales Conversions,19,1047,100198,25000,104000,3,80,630,7.875,05/01/2024,05/20/2024,8,1.015873016,8,IG
+BackToSchool_Bargains,BTS_Bargain_Boutique_AD_2,25-29,Unspecified,Engagement,31,1047,100199,18000,88000,4.1,107,860,8.037383178,10/01/2024,11/01/2024,11,1.368604651,11,FB
+BackToSchool_Bargains,ScholarlyChic_Savings_AD_3,36-40,Unspecified,Website Traffic,30,1047,100200,35000,80000,2.4,114,390,3.421052632,11/01/2024,12/01/2024,12,3.507692308,12,IG
+SchoolStyle_Spectacle,ClassroomCouture_Showcase_AD_1,25-29,Male,Product Awareness,17,1048,100201,28000,120000,3.9,85,520,6.117647059,10/15/2024,11/01/2024,9,1.471153846,9,IG
+FallFashion_Fiesta,AutumnAffair_Apparel_AD_1,41-50,Unspecified,Product Launch,29,1049,100202,32000,100000,2,98,190,1.93877551,09/01/2024,09/30/2024,10,5.157894737,10,IG
+FallFashion_Fiesta,FallFaves_Fashion_AD_2,30-35,Unspecified,Sales Conversions,17,1049,100203,27000,72000,3.5,112,740,6.607142857,10/15/2024,11/01/2024,12,1.816216216,12,FB
+FallFashion_Fiesta,HarvestHues_Style_AD_3,20-24,Male,Email Subscriptions,29,1049,100204,23000,140000,4,86,520,6.046511628,09/01/2024,09/30/2024,9,1.488461538,9,FB
+Halloween_Hautecouture,SpookyChic_Showcase_AD_1,25-29,Female,Engagement,31,1050,100205,26000,112000,2.7,110,190,1.727272727,10/01/2024,11/01/2024,11,6.368421053,11,IG
+Halloween_Hautecouture,EerieElegance_Fashion_AD_2,30-35,Male,Website Traffic,30,1050,100206,22000,128000,3.2,95,740,7.789473684,11/01/2024,12/01/2024,10,1.283783784,10,FB
+Halloween_Hautecouture,HauteHaunted_Halloween_AD_3,41-50,Female,Product Launch,31,1050,100207,20000,108000,4.1,78,270,3.461538462,10/01/2024,11/01/2024,8,2.311111111,8,IG
+Thanksgiving_Threads,GratefulGarb_Showcase_AD_1,25-29,Unspecified,Email Subscriptions,30,1051,100208,30000,92000,2.9,105,500,4.761904762,11/01/2024,12/01/2024,11,2.31,11,FB
+Thanksgiving_Threads,TurkeyDay_TrendyThreads_AD_2,36-40,Unspecified,Sales Conversions,30,1051,100209,25000,104,3.6,88,670,7.613636364,11/1/2024,12/01/2024,9,1.182089552,9,FB
+Thanksgiving_Threads,FeastFashion_Fall_AD_3,20-24,Female,Product Awareness,6,1051,100210,18000,104000,2.3,112,340,3.035714286,11/25/2024,12/01/2024,12,3.952941176,12,IG
+BlackFriday_BingeBuy,MidnightMadness_MustHaves_AD_1,36-40,Male,Engagement,11,1052,100211,35000,88000,3.8,103,860,8.349514563,11/20/2024,12/1/2024,11,1.31744186,11,FB
+BlackFriday_BingeBuy,BargainBlitz_Boutique_AD_2,41-50,Female,Website Traffic,21,1052,100212,28000,80000,3.5,82,230,2.804878049,11/10/2024,12/01/2024,9,3.208695652,9,FB
+BlackFriday_BingeBuy,ShopTillYouDrop_Showcase_AD_3,25-29,Unspecified,Product Launch,14,1052,100213,32000,120000,2.6,115,470,4.086956522,12/01/2024,12/15/2024,12,2.936170213,12,FB
+CyberMonday_ClothingCraze,DigitalDeals_DapperDuds_AD_1,30-35,Female,Sales Conversions,14,1053,100214,27000,100000,4,100,140,1.4,12/01/2024,12/15/2024,10,7.142857143,10,IG
+CyberMonday_ClothingCraze,CyberChic_Closet_Clearance_AD_2,36-40,Unspecified,Email Subscriptions,14,1053,100215,23000,72000,2.1,80,950,11.875,12/01/2024,12/15/2024,8,0.6736842105,8,IG
+CyberMonday_ClothingCraze,TechTrendsetter_CyberFashion_AD_3,20-24,Male,Product Awareness,14,1053,100216,26000,140000,3.7,113,310,2.743362832,12/01/2024,12/15/2024,12,4.374193548,12,FB
+ChristmasCouture_Collection,FestiveFashions_Finale_AD_1,25-29,Unspecified,Website Traffic,14,1053,100217,22000,112000,4.2,95,630,6.631578947,12/01/2024,12/15/2024,10,1.507936508,10,IG
+ChristmasCouture_Collection,SantaStyle_Showcase_AD_2,30-35,Unspecified,Engagement,14,1053,100218,20000,128000,3.3,82,860,10.48780488,12/01/2024,12/15/2024,9,0.8581395349,9,IG
+ChristmasCouture_Collection,JingleBell_Joy_Collection_AD_3,41-50,Male,Product Launch,14,1053,100219,30000,108000,2.5,108,390,3.611111111,12/01/2024,12/15/2024,11,3.046153846,11,IG
+ChristmasCouture_Collection,MerryAndBright_MustHaves_AD_4,30-35,Unspecified,Sales Conversions,14,1053,100220,25000,92000,3,96,520,5.416666667,12/01/2024,12/15/2024,10,1.846153846,10,FB
+ChristmasCouture_Collection,HollyJolly_HauteCouture_AD_5,25-29,Female,Email Subscriptions,0,1053,100221,18000,92000,4,80,200,2.5,12/01/2024,12/1/2024,8,3.2,8,FB
+Summer_Savings_US,SunnyStyles_Sale_AD_1,25-29,Male,Product Awareness,27,1001,201000,90000,80000,3.5,112,260,2.321428571,05/01/2022,05/28/2022,12,5.169230769,12,TikTok
+Summer_Savings_US,BeachVibes_Bargains_AD_2,36-40,Female,Engagement,29,1001,201001,100000,92000,4.2,82,315,3.841463415,06/01/2022,06/30/2022,9,2.342857143,9,TikTok
+Summer_Savings_US,SummerChic_Savings_AD_3,41-50,Unspecified,Sales Conversions,29,1001,201002,75000,80000,3.6,97,144,1.484536082,06/01/2022,06/30/2022,10,6.736111111,10,TikTok
+BackToSchool_Bargains,SmartStart_Fashion_AD_1,20-24,Female,Product Launch,15,1002,201003,95000,100000,4.1,122,504,4.131147541,06/15/2022,06/30/2022,13,3.146825397,13,TikTok
+BackToSchool_Bargains,SchoolStyle_Savings_AD_2,41-50,Male,Sales Conversions,30,1002,201004,83000,88000,2.8,92,200,2.173913043,08/01/2022,08/31/2022,10,4.6,10,TikTok
+BackToSchool_Bargains,BTS_Boutique_AD_3,25-29,Unspecified,Engagement,31,1002,201005,75000,80000,2.7,107,448,4.186915888,08/01/2022,09/01/2022,11,2.627232143,11,TikTok
+IndependenceDay_FashionFrenzy,IndependenceDay_FashionFrenzy,36-40,Male,Website Traffic,1,1003,201006,75000,100000,2.2,117,623,5.324786325,07/04/2022,07/05/2022,12,2.253611557,12,TikTok
+IndependenceDay_FashionFrenzy,Patriotic_Parade_Picks_AD_3,30-35,Unspecified,Sales Conversions,10,1003,201007,83000,88000,3.7,102,256,2.509803922,06/25/2022,07/05/2022,11,4.3828125,11,TikTok
+SpringStyles_Spectacular,BloomingFashion_Bonanza_AD_1,20-24,Male,Product Launch,31,1004,201008,75000,80000,3.2,87,476,5.471264368,08/01/2022,09/01/2022,9,1.644957983,9,TikTok
+SpringStyles_Spectacular,SpringEssentials_Sale_AD_2,30-35,Female,Email Subscriptions,30,1004,201009,75000,80000,4,112,336,3,09/01/2022,10/01/2022,12,4,12,TikTok
+SpringStyles_Spectacular,FreshFloral_Fiesta_AD_3,25-29,Female,Product Launch,30,1004,201010,98000,108000,2.7,77,399,5.181818182,09/15/2022,10/15/2022,8,1.543859649,8,TikTok
+MemorialDay_Madness,MemorialStyles_Mania_AD_1,41-50,Unspecified,Website Traffic,19,1005,201011,90000,112000,3.5,100,176,1.76,05/01/2022,05/20/2022,10,5.681818182,10,TikTok
+FallFashion_Fiesta,FallFaves_Fashion_AD_2,25-29,Male,Sales Conversions,31,1006,201012,130000,140000,2.4,114,553,4.850877193,10/01/2022,11/01/2022,12,2.473779385,3,TikTok
+FallFashion_Fiesta,CozyCrisp_Collection_AD_3,30-35,Female,Product Awareness,30,1006,201013,100000,128000,3.2,82,280,3.414634146,11/01/2022,12/01/2022,9,2.635714286,9,TikTok
+Halloween_Hautecouture,SpookyStyle_Showcase_AD_1,41-50,Unspecified,Engagement,17,1007,201014,70000,120000,2.9,117,384,3.282051282,10/15/2022,11/01/2022,12,3.65625,12,TikTok
+LaborDay_LeisureLooks,LazyDay_Leisure_AD_1,30-35,Male,Sales Conversions,29,1008,201015,118000,128000,3.7,107,120,1.121495327,09/01/2022,09/30/2022,11,9.808333333,11,TikTok
+LaborDay_LeisureLooks,LaborDay_Loungewear_AD_2,25-29,Female,Email Subscriptions,29,1008,201016,98000,108000,4.1,94,644,6.85106383,09/01/2022,09/30/2022,10,1.459627329,10,TikTok
+LaborDay_LeisureLooks,Relaxation_Retreat_AD_3,36-40,Male,Website Traffic,30,1008,201017,75000,80000,2.6,120,232,1.933333333,10/01/2022,10/31/2022,12,6.206896552,12,TikTok
+WinterWardrobe_Wonders,WinterWonders_Wardrobe_AD_1,20-24,Unspecified,Product Launch,30,1009,201018,110000,120000,2.5,90,427,4.744444444,12/01/2022,12/31/2022,9,1.896955504,9,TikTok
+Thanksgiving_Threads,TurkeyDay_Trends_AD_1,30-35,Female,Product Awareness,30,1010,201019,75000,80000,3.7,117,525,4.487179487,11/1/2022,12/01/2022,12,2.674285714,4,TikTok
+Thanksgiving_Threads,Gratitude_Garments_AD_2,25-29,Male,Engagement,16,1010,201020,130000,140000,4,106,328,3.094339623,11/15/2022,12/01/2022,11,3.554878049,3,TikTok
+Thanksgiving_Threads,FeastFashion_Favorites_AD_3,25-29,Unspecified,Sales Conversions,10,1010,201021,94000,104000,3.5,80,378,4.725,11/20/2022,11/30/2022,8,1.693121693,6,TikTok
+CyberMonday_ClothingCraze,DigitalDeals_DressUp_AD_1,25-29,Unspecified,Product Launch,9,1011,201022,94000,104000,2.4,112,119,1.0625,12/01/2022,12/10/2022,12,11.29411765,10,TikTok
+CyberMonday_ClothingCraze,CyberChic_Couture_AD_2,30-35,Female,Product Awareness,6,1011,201023,110000,120000,2,87,704,8.091954023,11/25/22,12/01/2022,9,1.112215909,5,TikTok
+CyberMonday_ClothingCraze,DigitalDeals_DapperDuds_AD_4,25-29,Unspecified,Website Traffic,11,1011,201024,110000,120000,4.2,110,224,2.036363636,11/20/2022,12/01/2022,11,5.401785714,3,TikTok
+CyberMonday_ClothingCraze,CyberChic_Closet_Clearance_AD_5,30-35,Male,Sales Conversions,21,1011,201025,90000,15000,3.9,96,357,3.71875,11/10/2022,12/01/2022,10,2.68907563,1,TikTok
+CyberMonday_ClothingCraze,TechTrendsetter_CyberFashion_AD_6,25-29,Female,Email Sub,14,1011,201026,118000,128000,2.8,82,483,5.890243902,12/01/2022,12/15/2022,9,1.527950311,9,TikTok
+CyberMonday_ClothingCraze,OnlineOpulence_Sale_AD_3,41-50,Female,Email Sub,31,1011,201027,94000,104000,3.6,109,288,2.642201835,12/01/2022,01/01/2023,11,4.163194444,11,TikTok
+NewYear_NewStyles,NewYear_News_Nattire_AD_1,30-35,Unspecified,scriptions,6,1012,201028,103000,112000,3.3,116,560,4.827586207,12/26/2022,01/01/2023,12,2.485714286,12,TikTok
+ValentineVibes_ApparelAffair,LoveStruck_Styles_AD_1,36-40,Female,Engagement,45,1013,201029,130000,140000,4.2,87,161,1.850574713,01/01/2023,02/15/2023,9,4.863354037,9,TikTok
+PresidentDay_Picks,Presidential_Picks_AD_1,25-29,Male,Product Awareness,27,1014,201030,95000,100000,3.8,100,329,3.29,02/01/2023,02/28/2023,10,3.039513678,10,TikTok
+PresidentDay_Picks,CommanderInChic_Collection_AD_2,36-40,Unspecified,Sales Conversions,22,1014,201031,103000,108000,4,114,98,0.8596491228,02/01/2023,02/23/2023,12,13.95918367,12,TikTok
+StPatricksDay_StyleSearch,LuckOfTheStylish_AD_1,41-50,Female,Website Traffic,31,1015,201032,110000,120000,3.1,88,665,7.556818182,03/01/2023,04/01/2023,9,1.190977444,9,TikTok
+Easter_EleganceEdit,EasterElegance_Editorial_AD_1,36-40,Unspecified,Product Launch,18,1016,201033,87000,92000,3.8,112,217,1.9375,04/01/2023,04/19/2023,12,6.193548387,12,TikTok
+Easter_EleganceEdit,BunnyHop_Boutique_AD_2,25-29,Male,Email Subscriptions,30,1016,201034,118000,128000,3.6,97,441,4.546391753,04/01/2023,05/01/2023,10,2.199546485,10,TikTok
+Easter_EleganceEdit,PastelPerfection_Sale_AD_3,36-40,Unspecified,Engagement,14,1016,201035,130000,140000,2.3,80,602,7.525,06/01/2023,06/15/2023,8,1.063122924,8,TikTok
+EarthDay_EcoFashionFinds,EcoChic_EarthDay_Finds_AD_1,30-35,Female,Sales Conversions,2,1017,201036,75000,80000,4.1,107,273,2.551401869,05/01/2023,05/03/2023,11,4.311355311,11,TikTok
+MothersDay_ModernStyles,MomsMarvel_ModernMaven_AD_4,30-35,Unspecified,Product Launch,14,1018,201037,110000,120000,2.9,90,364,4.044444444,05/01/2023,05/15/2023,9,2.225274725,4,TikTok
+MothersDay_ModernStyles,ChicMoments_MothersDayMood_AD_5,41-50,Male,Website Traffic,31,1018,201038,130000,140000,3.7,114,152,1.333333333,05/01/2023,06/01/2023,12,9,3,TikTok
+MothersDay_ModernStyles,MomMagic_Motherhood_Mania_AD_1,25-29,Unspecified,Email Subscriptions,31,1018,201039,95000,100000,2.6,105,592,5.638095238,05/01/2023,06/01/2023,11,1.951013514,3,TikTok
+MothersDay_ModernStyles,ChicMom_Collection_AD_2,25-29,Unspecified,Product Awareness,31,1018,201040,110000,120000,3.4,84,189,2.25,05/01/2023,06/01/2023,9,4,3,TikTok
+MothersDay_ModernStyles,MotherlyElegance_Show_AD_3,30-35,Male,Sales Conversions,31,1018,201041,94000,104000,3.2,117,350,2.991452991,05/01/2023,06/01/2023,12,4.011428571,2,TikTok
+FathersDay_FashionFinds,DapperDad_FashionFinds_AD_1,20-24,Unspecified,Engagement,30,1019,201042,103000,112000,2.1,102,469,4.598039216,06/01/2023,07/01/2023,11,2.392324094,2,TikTok
+FathersDay_FashionFinds,Fatherhood_Fashion_AD_2,41-50,Unspecified,Product Launch,30,1019,201043,110000,120000,4,82,238,2.902439024,06/01/2023,07/01/2023,9,3.100840336,1,TikTok
+FathersDay_FashionFinds,DadStyle_Discovery_AD_3,30-35,Male,Website Traffic,14,1019,201044,103000,112000,3.5,114,602,5.280701754,06/01/2023,06/15/2023,12,2.272425249,1,TikTok
+Graduation_Glam,CapAndGown_Chic_AD_1,36-40,Female,Email Subscriptions,30,1020,201045,98000,108000,2.8,97,161,1.659793814,06/01/2023,07/01/2023,10,6.02484472,1,TikTok
+thOfJuly_FabulousFits,July4th_FabFits_AD_2,25-29,Male,Product Awareness,1,1021,201046,130000,140000,4.2,84,329,3.916666667,07/04/2023,07/05/2023,9,2.29787234,1,TikTok
+thOfJuly_FabulousFits,Patriotic_Parade_Picks_AD_3,30-35,Unspecified,Engagement,10,1022,201047,110000,120000,3.2,110,98,0.8909090909,06/25/2023,07/05/2023,11,12.34693878,1,TikTok
+BeachBash_Bonanza,SplashStyle_Summer_AD_1,30-35,Female,Sales Conversions,31,1023,201048,98000,108000,4.1,98,665,6.785714286,08/01/2023,09/01/2023,10,1.473684211,1,TikTok
+BeachBash_Bonanza,TropicalVibes_Trend_AD_2,25-29,Unspecified,Product Launch,30,1023,201049,130000,140000,2.3,82,217,2.646341463,09/01/2023,10/01/2023,9,3.400921659,9,TikTok
+BeachBash_Bonanza,PoolsideGlamour_Garments_AD_3,20-24,Unspecified,Email Subscriptions,30,1023,201050,110000,120000,3.1,117,441,3.769230769,09/15/2023,10/15/2023,12,3.183673469,12,TikTok
+BBQ_Bash_Boutique,GrillAndChill_Clothing_AD_1,36-40,Female,Website Traffic,19,1024,201051,110000,120000,3.5,107,602,5.626168224,05/01/2023,05/20/2023,11,1.955149502,11,TikTok
+BBQ_Bash_Boutique,BBQ_Boutique_Bonanza_AD_2,25-29,Male,Sales Conversions,31,1024,201052,118000,128000,2,94,273,2.904255319,10/01/2023,11/01/2023,10,3.443223443,10,TikTok
+BBQ_Bash_Boutique,SizzlingStyles_Summer_AD_3,30-35,Female,Product Awareness,30,1024,201053,75000,80000,4,120,364,3.033333333,11/01/2023,12/01/2023,12,3.956043956,12,TikTok
+Camping_Clothing_Craze,OutdoorChic_Camping_AD_1,25-29,Male,Engagement,17,1025,201054,94000,104000,3.7,90,152,1.688888889,10/15/2023,11/01/2023,9,5.328947368,9,TikTok
+Camping_Clothing_Craze,Wilderness_Wardrobe_Wonders_AD_2,36-40,Unspecified,Email Subscriptions,19,1025,201055,130000,140000,2.6,117,592,5.05982906,05/01/2023,5/20/2023,12,2.371621622,12,TikTok
+Camping_Clothing_Craze,CampfireCouture_Collection_AD_3,25-29,Male,Product Launch,31,1025,201056,103000,108000,4.1,106,189,1.783018868,10/01/2023,11/1/2023,11,6.169312169,11,TikTok
+SummerNights_StyleSensation,MoonlightMadness_Fashion_AD_1,20-24,Unspecified,Sales Conversions,30,1026,201057,110000,120000,2.7,80,350,4.375,11/01/2023,12/1/2023,8,1.828571429,8,TikTok
+AugustAdventure_ApparelAffair,AdventureAwaits_Fashion_AD_1,30-35,Female,Website Traffic,17,1027,201058,75000,80000,3.8,112,469,4.1875,10/15/2023,11/01/2023,12,2.865671642,12,TikTok
+LaborDay_LeisureLooks,RelaxationRendezvous_AD_1,41-50,Unspecified,Product Awareness,29,1028,201059,110000,120000,2,87,238,2.735632184,09/01/2023,09/30/2023,9,3.289915966,9,TikTok
+FallFoliage_FashionFinds,AutumnAdornments_AD_1,36-40,Male,Engagement,30,1029,201060,94000,104000,3.5,110,602,5.472727273,09/01/2023,10/1/2023,11,2.009966777,11,TikTok
+FallFoliage_FashionFinds,FallingForFashionFinds_AD_2,20-24,Female,Sales Conversions,30,1029,201061,75000,80000,4.2,96,161,1.677083333,10/01/2023,10/31/2023,10,5.962732919,10,TikTok
+FallFoliage_FashionFinds,CrispCouture_Collection_AD_3,36-40,Unspecified,Email Subscriptions,30,1029,201062,94000,104000,3.3,82,329,4.012195122,12/01/2023,12/31/2023,9,2.243161094,9,TikTok
+Oktoberfest_Outfit_Opulence,BeerGarden_Beauty_AD_1,41-50,Female,Product Launch,30,1030,201063,10000,104000,4,109,98,0.8990825688,12/01/2023,12/31/2023,11,12.23469388,11,TikTok
+Oktoberfest_Outfit_Opulence,OpulentOktober_Style_AD_2,30-35,Unspecified,Website Traffic,30,1030,201064,118000,128000,2.5,116,665,5.732758621,11/1/2023,12/1/2023,12,2.093233083,12,TikTok
+CozyCabin_Collection,FiresideFashion_Favorites_AD_1,41-50,Female,Product Awareness,16,1031,201065,103000,90000,3.7,87,217,2.494252874,11/15/2023,12/1/2023,9,3.608294931,9,TikTok
+Thanksgiving_Threads,GratitudeGarb_Collection_AD_2,20-24,Male,Engagement,10,1031,201066,750000,104000,2.8,100,441,4.41,11/20/2023,11/30/2023,10,2.267573696,10,TikTok
+Thanksgiving_Threads,FeastDay_FashionFinds_AD_3,36-40,Female,Sales Conversions,9,1031,201067,130000,140000,4,114,602,5.280701754,12/01/2023,12/10/2023,12,2.272425249,12,TikTok
+BlackFriday_BingeBuy,MidnightMadness_MustHaves_AD_1,41-50,Male,Email Subscriptions,6,1032,201068,94000,104000,2.2,88,273,3.102272727,11/25/2023,12/01/2023,9,2.901098901,9,TikTok
+BlackFriday_BingeBuy,BargainBlitz_Boutique_AD_2,20-24,Unspecified,Product Launch,11,1032,201069,103000,112000,3.9,112,364,3.25,11/20/2023,12/01/2023,12,3.692307692,12,TikTok
+BlackFriday_BingeBuy,ShopTillYouDrop_Showcase_AD_3,30-35,Unspecified,Website Traffic,21,1032,201070,110000,90000,3.5,97,152,1.567010309,11/10/2023,12/01/2023,10,6.381578947,10,TikTok
+CyberMonday_ClothingCraze,DigitalDeals_DapperDuds_AD_4,30-35,Male,Engagement,14,1033,201071,95000,100000,3.6,80,592,7.4,12/01/2023,12/15/2023,8,1.081081081,8,TikTok
+CyberMonday_ClothingCraze,CyberChic_Closet_Clearance_AD_5,25-29,Female,Product Awareness,6,1033,201072,90000,112000,2.9,107,189,1.76635514,11/25/2023,12/01/2023,11,6.227513228,11,TikTok
+CyberMonday_ClothingCraze,TechTrendsetter_CyberFashion_AD_6,25-29,Female,Sales Conversions,11,1033,201073,110000,80000,2.4,90,350,3.888888889,11/20/2023,12/01/2023,9,2.314285714,9,TikTok
+WinterWonder_Wardrobe,Snowflakes_Style_Sale_AD_4,36-40,Unspecified,Product Launch,21,1034,201074,103000,112000,4.1,114,469,4.114035088,11/10/2023,12/01/2023,12,2.91684435,12,TikTok
+UglySweater_Showcase,TackyThreads_Trend_AD_1,25-29,Unspecified,Email Subscriptions,14,1035,201075,103000,112000,2.8,105,238,2.266666667,12/01/2023,12/15/2023,11,4.852941176,11,TikTok
+ChristmasCouture_Collection,FestiveFashions_Finale_AD_7,41-50,Male,Website Traffic,14,1036,201076,94000,104000,3.5,84,602,7.166666667,12/01/2023,12/15/2023,9,1.255813953,9,TikTok
+ChristmasCouture_Collection,SantaStyle_Showcase_AD_8,30-35,Female,Product Awareness,14,1036,201077,10000,80000,4,117,161,1.376068376,12/01/2023,12/15/2023,12,8.720496894,12,TikTok
+ChristmasCouture_Collection,JingleBell_Joy_Collection_AD_9,41-50,Unspecified,Sales Conversions,14,1036,201078,94000,104000,2.7,102,329,3.225490196,12/01/2023,12/15/2023,11,3.410334347,9,TikTok
+ChristmasCouture_Collection,MerryAndBright_MustHaves_AD_10,25-29,Unspecified,Engagement,24,1036,201079,75000,90000,3.4,82,98,1.195121951,12/01/2023,12/25/2023,9,7.530612245,7,TikTok
+ChristmasCouture_Collection,HollyJolly_HauteCouture_AD_11,20-24,Male,Product Launch,14,1036,201080,130000,140000,3.1,114,665,5.833333333,12/01/2023,12/15/2023,12,2.057142857,,TikTok
+NewYear_NewStyles,NewYear_News_Nattire_AD_1,30-35,Female,Website Traffic,19,1037,201081,94000,104000,4,97,217,2.237113402,12/01/2023,12/20/2023,10,4.470046083,1,TikTok
+WinterSale_WardrobeWins,SnowySavings_Style_AD_13,30-35,Unspecified,Email Subscriptions,14,1038,201082,94000,104000,3.8,84,441,5.25,12/01/2023,12/15/2023,9,1.714285714,9,TikTok
+WinterSale_WardrobeWins,WinteryWardrobe_Wonders_AD_14,25-29,Male,Sales Conversions,14,1038,201083,750000,120000,2,110,602,5.472727273,12/01/2023,12/15/2023,11,2.009966777,1,TikTok
+WinterSale_WardrobeWins,FrostyFashion_Fiesta_AD_15,30-35,Unspecified,Product Awareness,14,1038,201084,94000,90000,3.2,98,273,2.785714286,12/01/2023,12/15/2023,10,3.58974359,,TikTok
+Resolutions_Revamp,Revolutionize_Your_Style_AD_13,20-24,Female,Product Launch,18,1039,201085,110000,120000,4.1,82,364,4.43902439,04/01/2024,04/19/2024,9,2.027472527,9,TikTok
+AprilShowers_StyleSplendor,RainyDay_Runway_AD_16,30-35,Unspecified,Engagement,30,1040,201086,10000,120000,2.9,117,152,1.299145299,04/01/2024,05/01/2024,12,9.236842105,12,TikTok
+AprilShowers_StyleSplendor,AprilAesthetics_Style_AD_17,36-40,Female,Website Traffic,14,1040,201087,95000,9000,3.6,107,592,5.53271028,04/01/2024,04/15/2024,11,1.988175676,11,TikTok
+EarthDay_EcoFashionFinds,EcoElegance_EarthDay_ED_19,30-35,Unspecified,Sales Conversions,2,1041,201088,110000,120000,2.3,94,189,2.010638298,05/01/2024,05/03/2024,10,4.973544974,10,TikTok
+MayFlowers_FashionFusion,BlossomBeauty_Boutique_AD_22,25-29,Female,Email Subscriptions,14,1042,201089,103000,112000,3.7,120,350,2.916666667,05/01/2024,05/15/2024,12,4.114285714,12,TikTok
+MayFlowers_FashionFusion,FloralFusion_Fashion_AD_23,36-40,Unspecified,Product Awareness,31,1042,201090,98000,108000,3.5,90,469,5.211111111,05/01/2024,06/01/2024,9,1.727078891,9,TikTok
+MothersDay_ModernStyles,**MothersDay_ModernStyles:**,30-35,Male,Product Launch,31,1043,201091,118000,128000,2.6,117,238,2.034188034,05/01/2024,06/01/2024,12,5.899159664,12,TikTok
+MemorialDay_Madness,MemorialStyles_Mania,20-24,Unspecified,Sales Conversions,19,1044,201092,110000,120000,4,106,602,5.679245283,05/01/2024,05/20/2024,11,1.936877076,11,TikTok
+MemorialDay_Madness,HonoringHeroes_StyleSpectacle,25-29,Female,Engagement,1,1044,201093,98000,108000,2.1,80,161,2.0125,07/04/2024,07/05/2024,8,3.97515528,8,TikTok
+SummerSizzle_Styles,SizzlingStyles_Showcase,41-50,Unspecified,Website Traffic,10,1045,201094,94000,104000,3.8,112,329,2.9375,06/25/2024,07/05/2024,12,4.085106383,12,TikTok
+JulyJubilation_Jeans,IndependenceDay_InDenim_AD_1,36-40,Male,Email Subscriptions,31,1046,201095,118000,128000,4.2,87,98,1.126436782,08/01/2024,09/01/2024,9,7.989795918,9,TikTok
+JulyJubilation_Jeans,JeansJubilee_JulyStyle_AD_2,20-24,Female,Product Awareness,30,1046,201096,110000,120000,3.3,110,665,6.045454545,09/01/2024,10/01/2024,11,1.819548872,11,TikTok
+JulyJubilation_Jeans,RedWhiteBlue_JeanRevival_AD_3,41-50,Male,Product Launch,30,1046,201097,30000,112000,2.5,96,217,2.260416667,09/15/2024,10/15/2024,10,4.423963134,10,TikTok
+BackToSchool_Bargains,SmartStart_Style_AD_1,30-35,Female,Sales Conversions,19,1047,201098,25000,128000,3,82,441,5.37804878,05/01/2024,05/20/2024,9,1.673469388,9,TikTok
+BackToSchool_Bargains,BTS_Bargain_Boutique_AD_2,25-29,Unspecified,Engagement,31,1047,201099,18000,120000,4,109,602,5.52293578,10/01/2024,11/01/2024,11,1.991694352,11,TikTok
+BackToSchool_Bargains,ScholarlyChic_Savings_AD_3,36-40,Unspecified,Website Traffic,30,1047,201100,35000,128000,2.9,116,273,2.353448276,11/01/2024,12/01/2024,12,5.098901099,12,TikTok
+SchoolStyle_Spectacle,ClassroomCouture_Showcase_AD_1,25-29,Male,Product Awareness,17,1048,201101,28000,80000,3.6,87,364,4.183908046,10/15/2024,11/01/2024,9,2.151098901,9,TikTok
+FallFashion_Fiesta,AutumnAffair_Apparel_AD_1,41-50,Unspecified,Product Launch,29,1049,201102,32000,120000,2,100,152,1.52,09/01/2024,09/30/2024,10,6.578947368,10,TikTok
+FallFashion_Fiesta,FallFaves_Fashion_AD_2,30-35,Unspecified,Sales Conversions,17,1049,201103,27000,104000,3.3,114,740,6.49122807,10/15/2024,11/01/2024,12,1.848648649,12,TikTok
+FallFashion_Fiesta,HarvestHues_Style_AD_3,20-24,Male,Email Subscriptions,29,1049,201104,23000,120000,4.1,88,520,5.909090909,09/01/2024,09/30/2024,9,1.523076923,9,TikTok
+Halloween_Hautecouture,SpookyChic_Showcase_AD_1,25-29,Female,Engagement,31,1050,201105,26000,80000,2.8,112,190,1.696428571,10/01/2024,11/01/2024,12,7.073684211,12,TikTok
+Halloween_Hautecouture,EerieElegance_Fashion_AD_2,30-35,Male,Website Traffic,30,1050,201106,22000,108000,3.5,97,740,7.628865979,11/01/2024,12/01/2024,10,1.310810811,10,TikTok
+Halloween_Hautecouture,HauteHaunted_Halloween_AD_3,41-50,Female,Product Launch,31,1050,201107,20000,80000,4.2,80,270,3.375,10/01/2024,11/01/2024,8,2.37037037,8,TikTok
+Thanksgiving_Threads,GratefulGarb_Showcase_AD_1,25-29,Unspecified,Email Subscriptions,30,1051,201108,30000,120000,2.4,107,500,4.672897196,11/01/2024,12/01/2024,11,2.354,11,TikTok
+Thanksgiving_Threads,TurkeyDay_TrendyThreads_AD_2,36-40,Unspecified,Sales Conversions,30,1051,201109,25000,120000,3.7,90,670,7.444444444,11/1/2024,12/01/2024,9,1.208955224,9,TikTok
+Thanksgiving_Threads,FeastFashion_Fall_AD_3,20-24,Female,Product Awareness,6,1051,201110,18000,128000,2.1,114,340,2.98245614,11/25/2024,12/01/2024,12,4.023529412,12,TikTok
+BlackFriday_BingeBuy,MidnightMadness_MustHaves_AD_1,36-40,Male,Engagement,11,1052,201111,35000,80000,3.9,105,860,8.19047619,11/20/2024,12/1/2024,11,1.343023256,11,TikTok
+BlackFriday_BingeBuy,BargainBlitz_Boutique_AD_2,41-50,Female,Website Traffic,21,1052,201112,4500,90000,3.4,84,230,2.738095238,11/10/2024,12/01/2024,9,3.286956522,9,TikTok
+BlackFriday_BingeBuy,ShopTillYouDrop_Showcase_AD_3,25-29,Unspecified,Product Launch,14,1052,201113,32000,140000,2.7,117,470,4.017094017,12/01/2024,12/15/2024,12,2.987234043,12,TikTok
+CyberMonday_ClothingCraze,DigitalDeals_DapperDuds_AD_1,30-35,Female,Sales Conversions,14,1053,201114,27000,108000,4,102,140,1.37254902,12/01/2024,12/15/2024,11,8.014285714,11,TikTok
+CyberMonday_ClothingCraze,CyberChic_Closet_Clearance_AD_2,36-40,Unspecified,Email Subscriptions,14,1053,201115,23000,120000,3.1,82,950,11.58536585,12/01/2024,12/15/2024,9,0.7768421053,9,TikTok
+CyberMonday_ClothingCraze,TechTrendsetter_CyberFashion_AD_3,20-24,Male,Product Awareness,14,1053,201116,26000,80000,2.5,114,310,2.719298246,12/01/2024,12/15/2024,12,4.412903226,12,TikTok
+ChristmasCouture_Collection,FestiveFashions_Finale_AD_1,25-29,Unspecified,Website Traffic,14,1053,201117,22000,120000,3.8,97,630,6.494845361,12/01/2024,12/15/2024,10,1.53968254,10,TikTok
+ChristmasCouture_Collection,SantaStyle_Showcase_AD_2,30-35,Unspecified,Engagement,14,1053,201118,30000,104000,2.2,84,860,10.23809524,12/01/2024,12/15/2024,9,0.8790697674,9,TikTok
+ChristmasCouture_Collection,JingleBell_Joy_Collection_AD_3,41-50,Male,Product Launch,14,1053,201119,30000,90000,3.6,110,390,3.545454545,12/01/2024,12/15/2024,11,3.102564103,11,TikTok
+ChristmasCouture_Collection,MerryAndBright_MustHaves_AD_4,30-35,Unspecified,Sales Conversions,14,1053,201120,25000,104000,4,98,520,5.306122449,12/01/2024,12/15/2024,10,1.884615385,10,TikTok
+ChristmasCouture_Collection,HollyJolly_HauteCouture_AD_5,25-29,Female,Email Subscriptions,0,1053,201121,35000,15000,2.9,82,200,2.43902439,12/01/2024,12/1/2024,9,3.69,9,TikTok
